@@ -1,6 +1,7 @@
-# NewsApp
+# Simple Angular NewsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
+This app utilizes News Api a free resource(https://newsapi.org/) get a key and place it in service file.
 
 ## Development server
 
